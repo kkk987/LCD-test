@@ -1,1 +1,0 @@
-"./widget.obj" "./Switch.obj" "./ST7735_test.obj" "./ST7735TestMain.obj" "./ST7735.obj" "./PLL.obj" -l"C:\ti\TivaWare_C_Series-1.1\driverlib\ccs\Debug\driverlib.lib" -l"libc.a" "C:/ti/TivaWare_C_Series-1.1/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" 
